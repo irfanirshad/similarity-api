@@ -1,6 +1,6 @@
 # Similarity API
 
-A project to learn modern full-stack development made by Josh.
+Modern Serverless stack consisting of NextJS, Typescript, Prisma & Upstash with OpenAI for extra features. Deployed on Vercel.
 
 ## Features
 
@@ -21,10 +21,6 @@ A project to learn modern full-stack development made by Josh.
 - Conditional classes with clsx
 - Variants with class-variance-authority
 
-## Things I forgot in the video
-
-- [The mobile menu](https://github.com/joschan21/similarity-api/blob/main/src/components/MobileMenu.tsx)
-- [Where to put the mobile menu](https://github.com/joschan21/similarity-api/blob/main/src/app/layout.tsx)
 
 ## Acknowledgements
 
@@ -32,7 +28,7 @@ A project to learn modern full-stack development made by Josh.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at admin@wordful.ai
+If you have any feedback or improvement, please open an issue or submit a pull request.
 
 ## License
 
